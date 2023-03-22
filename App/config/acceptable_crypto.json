@@ -1,0 +1,13 @@
+{
+  "BTC" : "bitcoin",
+  "BCH" : "bitcoin-cash",
+  "LTC" : "litecoin",
+  "ETH" : "ethereum",
+  "XMR" : "monero",
+  "USDT" : "tether",
+  "XRP" : "ripple",
+  "ADA" : "cardano",
+  "TRX" : "tron",
+  "BNB" : "binancecoin",
+  "DOGE" : "dogecoin"
+}
